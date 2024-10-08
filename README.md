@@ -15,7 +15,8 @@ This package is still in development and can be installed locally by cloning thi
 ```r
 # Clone the repository
 # Install the development version of the package
-devtools::install()
+devtools::install_github("SitiHassan/UEC-Performance@v1.0.0")  
+
 
 ```
 
