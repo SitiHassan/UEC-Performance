@@ -10,13 +10,16 @@
 - **Customizable**: Functions can be easily adapted for different data sources.
 
 ## Installation
-This package is still in development and can be installed locally by cloning this repository and using `devtools`:
+The `UECETL` package is still in development and requires several libraries to function correctly, including `tidyverse`, `fs`, and `Microsoft365R`. These dependencies will be installed automatically when you install the package.
+
+To install the package directly from GitHub:
 
 ```r
-# Clone the repository
+# If you don't have devtools installed
+install.packages("devtools")
+
 # Install the development version of the package
 devtools::install_github("SitiHassan/UEC-Performance@v1.0.0")  
-
 
 ```
 
