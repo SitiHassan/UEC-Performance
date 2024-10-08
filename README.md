@@ -37,3 +37,6 @@ This package is **in development** and currently focuses on compiling and enhanc
 
 Contributions are welcome! If you'd like to contribute, please create a pull request or open an issue to discuss improvements or changes.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
