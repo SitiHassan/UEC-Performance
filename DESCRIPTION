@@ -11,4 +11,5 @@ RoxygenNote: 7.2.3
 Imports:
     tidyverse,
     fs,
+    readxl,
     Microsoft365R
