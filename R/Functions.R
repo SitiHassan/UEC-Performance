@@ -1,7 +1,12 @@
 # install.packages("usethis")
 # install.packages("devtools")
+# install.packages("roxygen2")
 # usethis::create_package(".")
-# devtools::document()
+
+# devtools::document() # To generate documentation
+# devtools::load_all() # To load the package locally
+# devtools::build()    # To build packages
+
 
 
 #' List the most recent files in a SharePoint folder
