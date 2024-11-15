@@ -10,7 +10,6 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 Imports:
     fs,
-<<<<<<< HEAD
     Microsoft365R,
     rlang (>= 1.1.1),
     devtools,
@@ -19,7 +18,4 @@ Imports:
     magrittr,
     usethis,
     roxygen2
-=======
-    readxl,
-    Microsoft365R
->>>>>>> 8d604b9f444b538207e7a609165e0464e4033190
+
